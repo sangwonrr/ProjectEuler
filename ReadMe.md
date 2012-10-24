@@ -7,14 +7,14 @@
 언어 사용 연습
 
 ## setup
-    git clone git@github.com:nopsse/ProjectEuler.git
+    git clone git@github.com:sangwonrr/ProjectEuler.git
 
 ## 사용 언어
 
 * [Ruby](http://www.ruby-lang.org/en)
 
 ## profile
-![project euler profile](http://projecteuler.net/profile/nopsse.png)
+![project euler profile](http://projecteuler.net/profile/sangwonrr.png)
 
 ## license
 [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)
