@@ -1,15 +1,15 @@
-# Project Euler
+ï»¿# Project Euler
 
-[Project Euler](http://projecteuler.net/) ¹®Á¦ Ç®ÀÌ.
+[Project Euler](http://projecteuler.net/) ë¬¸ì œ í’€ì´.
 
-## ¸ñÀû
+## ëª©ì 
 
-¾ğ¾î »ç¿ë ¿¬½À
+ì–¸ì–´ ì‚¬ìš© ì—°ìŠµ
 
 ## setup
     git clone git@github.com:nopsse/ProjectEuler.git
 
-## »ç¿ë ¾ğ¾î
+## ì‚¬ìš© ì–¸ì–´
 
 * [Ruby](http://www.ruby-lang.org/en)
 
